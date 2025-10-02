@@ -1,2 +1,6 @@
-wds-shadcn-registry.md
+shadcn-registry.md
 app_data/
+
+
+#Ignore vscode AI rules
+.github/instructions/codacy.instructions.md

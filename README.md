@@ -49,17 +49,17 @@ A comprehensive collection of accessible, customizable UI components built speci
 ## Installation
 
 ```bash
-npm install wds-shadcn-registry
+npm install shadcn-registry
 # or
-yarn add wds-shadcn-registry
+yarn add shadcn-registry
 # or
-pnpm add wds-shadcn-registry
+pnpm add shadcn-registry
 ```
 
 ## Usage
 
 ```tsx
-import { Button, Card, Input } from 'wds-shadcn-registry'
+import { Button, Card, Input } from 'shadcn-registry'
 
 export default function MyComponent() {
   return (
