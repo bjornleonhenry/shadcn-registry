@@ -1,6 +1,12 @@
-shadcn-registry.md
+.github/
+.husky/
+.astro/
+.github/
+.DS_Store
+.cache/
+.vscode/
+.idea/
 app_data/
-
-
-#Ignore vscode AI rules
-.github/instructions/codacy.instructions.md
+node_modules/
+dist/
+build/
