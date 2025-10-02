@@ -122,7 +122,7 @@ export default defineConfig({
         {
           icon: "youtube",
           label: "YouTube",
-          href: "https://www.youtube.com/@WebDevSimplified",
+          href: "https://www.youtube.com/@BjornLeonHenry",
         },
         {
           icon: "x.com",
@@ -179,7 +179,7 @@ export default defineConfig({
             },
           ],
           footerText:
-            "Built by [Web Dev Simplified](https://webdevsimplified.com) for use with [Shadcn](https://ui.shadcn.com)",
+            "Built by [Web Dev Simplified](https://BjornLeonHenry.com) for use with [Shadcn](https://ui.shadcn.com)",
         }),
       ],
     }),
